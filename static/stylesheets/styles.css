@@ -1,0 +1,25 @@
+#collapse0{
+overflow-y:scroll;
+height:200px;
+}
+#collapse1
+{
+overflow-y:scroll;
+height:200px;
+}
+#collapse2
+{
+overflow-y:scroll;
+height:200px;
+}
+
+
+h2,h5,h3
+{
+	color: #0d0e0d
+}
+p{
+	color: #0f0f0f
+}
+
+body{ background-color: #2F283D;}
